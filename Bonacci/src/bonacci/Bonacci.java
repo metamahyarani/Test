@@ -19,7 +19,7 @@ public class Bonacci {
     public static void main(String[] args) {
         // TODO code application logic here
              Scanner show = new Scanner(System.in);
-        System.out.print("Masukan Angka : ");
+        System.out.print("Masukan Angka  : ");
         int inputan = show.nextInt();
         long fib[] = new long[inputan];
          
@@ -37,3 +37,6 @@ public class Bonacci {
     }
     
 }
+
+
+//udah diupdate yaa
